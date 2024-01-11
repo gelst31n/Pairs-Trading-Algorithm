@@ -78,7 +78,7 @@ The algorithm is configured to use my ALPACA paper account API key and secret.
 
 | File                                                                                               | Summary       |
 | ---                                                                                                | ---           |
-| [requirements.txt](https://github.com/gilelstein/Pairs-Trading-Algorithm/blob/main/requirements.txt) | ► Requirements needed to run program, use "pip install -r requirements.txt" |
+| [requirements.txt](https://github.com/gelst31n/Pairs-Trading-Algorithm/blob/main/requirements.txt) | ► Requirements needed to run program, use "pip install -r requirements.txt" |
 
 </details>
 
@@ -86,10 +86,10 @@ The algorithm is configured to use my ALPACA paper account API key and secret.
 
 | File                                                                                                                  | Summary       |
 | ---                                                                                                                   | ---           |
-| [Visualisation.py](https://github.com/gilelstein/Pairs-Trading-Algorithm/blob/main/Analysis/visualisation.py)           | ► Functions to visualise important metrics |
-| [StockData.py](https://github.com/gilelstein/Pairs-Trading-Algorithm/blob/main/Analysis/stock_data.py)                   | ► StockData class and methods |
-| [Dates.py](https://github.com/gilelstein/Pairs-Trading-Algorithm/blob/main/Analysis/DATES.py)                           | ► Enum for dates |
-| [StatisticalMethods.py](https://github.com/gilelstein/Pairs-Trading-Algorithm/blob/main/Analysis/statistical_methods.py) | ► Functions performing statisticaly analysis on StockData |
+| [Visualisation.py](https://github.com/gelst31n/Pairs-Trading-Algorithm/blob/main/Analysis/visualisation.py)           | ► Functions to visualise important metrics |
+| [StockData.py](https://github.com/gelst31n/Pairs-Trading-Algorithm/blob/main/Analysis/stock_data.py)                   | ► StockData class and methods |
+| [Dates.py](https://github.com/gelst31n/Pairs-Trading-Algorithm/blob/main/Analysis/DATES.py)                           | ► Enum for dates |
+| [StatisticalMethods.py](https://github.com/gelst31n/Pairs-Trading-Algorithm/blob/main/Analysis/statistical_methods.py) | ► Functions performing statisticaly analysis on StockData |
 
 </details>
 
@@ -97,7 +97,7 @@ The algorithm is configured to use my ALPACA paper account API key and secret.
 
 | File                                                                                                 | Summary       |
 | ---                                                                                                  | ---           |
-| [test_alpaca.py](https://github.com/gilelstein/Pairs-Trading-Algorithm/blob/main/tests/test_alpaca.py) | ► Testing the Alpaca Functions |
+| [test_alpaca.py](https://github.com/gelst31n/Pairs-Trading-Algorithm/blob/main/tests/test_alpaca.py) | ► Testing the Alpaca Functions |
 
 </details>
 
@@ -105,7 +105,7 @@ The algorithm is configured to use my ALPACA paper account API key and secret.
 
 | File                                                                                                                 | Summary       |
 | ---                                                                                                                  | ---           |
-| [AnalysisExecutor.py](https://github.com/gilelstein/Pairs-Trading-Algorithm/blob/main/executors/analysis_executor.py)   | ► Executor for analysis |
+| [AnalysisExecutor.py](https://github.com/gelst31n/Pairs-Trading-Algorithm/blob/main/executors/analysis_executor.py)   | ► Executor for analysis |
 
 </details>
 
@@ -113,8 +113,8 @@ The algorithm is configured to use my ALPACA paper account API key and secret.
 
 | File                                                                                                      | Summary       |
 | ---                                                                                                       | ---           |
-| [MyTimer.py](https://github.com/gilelstein/Pairs-Trading-Algorithm/blob/main/utils/my_timer.py)         | ► INSERT-TEXT |
-| [ProgressBar.py](https://github.com/gilelstein/Pairs-Trading-Algorithm/blob/main/utils/ProgressBar.py) | ► INSERT-TEXT |
+| [MyTimer.py](https://github.com/gelst31n/Pairs-Trading-Algorithm/blob/main/utils/my_timer.py)         | ► INSERT-TEXT |
+| [ProgressBar.py](https://github.com/gelst31n/Pairs-Trading-Algorithm/blob/main/utils/ProgressBar.py) | ► INSERT-TEXT |
 
 </details>
 
@@ -122,7 +122,7 @@ The algorithm is configured to use my ALPACA paper account API key and secret.
 
 | File                                                                                                           | Summary       |
 | ---                                                                                                            | ---           |
-| [AlpacaFunctions.py](https://github.com/gilelstein/Pairs-Trading-Algorithm/blob/main/Trading/alpaca_functions.py) | ► INSERT-TEXT |
+| [AlpacaFunctions.py](https://github.com/gelst31n/Pairs-Trading-Algorithm/blob/main/Trading/alpaca_functions.py) | ► INSERT-TEXT |
 
 </details>
 
